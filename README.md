@@ -1,7 +1,7 @@
 # Verzekeringsnieuws
 
 Gratis maandelijkse website met het belangrijkste verzekeringsnieuws uit Nederland en daarbuiten.
-Statische HTML en CSS, geen build-stap. Live via GitHub Pages: https://rheeres1.github.io/verzekeringsnieuws/
+Statische HTML en CSS, geen build-stap. Live via GitHub Pages: https://verzekeringsnieuws.github.io/
 
 ## Structuur
 
